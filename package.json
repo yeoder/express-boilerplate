@@ -34,7 +34,6 @@
   "engines": {
     "node": ">=20.9.0"
   },
-  "engineStrict": false
   "dependencies": {
     "@apollo/server": "^4.10.4",
     "@tshio/awilix-resolver": "^2.0.1",
